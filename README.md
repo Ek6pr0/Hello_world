@@ -53,4 +53,10 @@ per eliminare un Branch (force mode):
 2. Eseguire il comando: `$ git merge <\nome del Branch che vuoi unire>`
 3. (facoltativo) Eliminare la cartella che hai appena unito.
 
-[Prova link](https://it.wikipedia.org/wiki/Svizzera)
+## Altro
+
+Crediti: Erik Carina (RSI)
+
+[Book git](https://git-scm.com/book/en/v2) (english)  
+[RSI](https://www.rsi.ch/)
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
