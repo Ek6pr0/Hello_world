@@ -1,6 +1,6 @@
 # I miei primi passi in Git
 
-**Informazione: i segni <\> non devono essere messi, servono solo per informazione.**
+**Informazione: i segni <> e \ non devono essere messi, servono solo per informazione.**
 
 ## Configurazione di base
 
@@ -29,7 +29,8 @@ Per committare digitare:  `$ git commit -m '<Motivo del commit>`
 Per collegare il tuo Git a Github usare:  
 `$ git remote add origin <\link del Github>`
 
-
+Per "condividere" il GIT con qualcun altro bisogna prendere il link del progetto su GitHub e poi incollarlo nel seguente codice:  
+`$ git clone https://github.com/Ek6pr0/Hello_world.git` 
 
 ### Branch
 
