@@ -9,7 +9,7 @@ inserire il tuo nome e cognome all'interno del comando seguente
 
 
 inserire il tuo indirizzo email all'interno del comando seguente  
-`% git config --global user.email "indirizzo.email@gmail.com"`
+`$ git config --global user.email "indirizzo.email@gmail.com"`
 
 ## Comandi di base
 
@@ -24,9 +24,10 @@ Al posto di "<\file>" inserire uno dei seguenti comandi:
 - "." che aggiunge tutti i file
 - "Nome del file" che aggiunge il file con il nome inserito
 
-
-
 Per committare digitare:  `$ git commit -m '<Motivo del commit>`
+
+Per collegare il tuo Git a Github usare:  
+`$ git remote add origin <\link del Github>`
 
 ### Branch
 
@@ -38,6 +39,13 @@ Per creare un nuovo Branch:
 per scambiare da Branch a Branch:  
 `$ git checkout <\nome Branch>`
 
-per eliminare un Branch:  
+per eliminare un Branch (safe mode):  
 `$ git branch -d <\nome Branch>`
 
+per eliminare un Branch (force mode):  
+`$ git branch -D <\nome Branch>`
+
+#### Comandi avanzati Branch
+
+Per unire i due Branch creati usare il comando:
+`$ git merge`
