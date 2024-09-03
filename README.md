@@ -58,5 +58,5 @@ per eliminare un Branch (force mode):
 Crediti: Erik Carina (RSI)
 
 [Book git](https://git-scm.com/book/en/v2) (english)  
-[RSI](https://www.rsi.ch/)
+[RSI](https://www.rsi.ch/)  
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
