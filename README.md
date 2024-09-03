@@ -4,11 +4,11 @@
 
 ## Configurazione di base
 
-inserire il tuo nome e cognome all'interno del comando seguente  
+Inserire il tuo nome e cognome all'interno del comando seguente  
 `$ git config --global user.name "nome cognome"`
 
 
-inserire il tuo indirizzo email all'interno del comando seguente  
+Inserire il tuo indirizzo email all'interno del comando seguente  
 `$ git config --global user.email "indirizzo.email@gmail.com"`
 
 ## Comandi di base
@@ -29,7 +29,7 @@ Per committare digitare:  `$ git commit -m '<Motivo del commit>`
 Per collegare il tuo Git a Github usare:  
 `$ git remote add origin <\link del Github>`
 
-Per "condividere" il GIT con qualcun altro bisogna prendere il link del progetto su GitHub e poi incollarlo nel seguente codice:  
+Per clonare la repository online usare: 
 `$ git clone https://github.com/Ek6pr0/Hello_world.git` 
 
 ### Branch
@@ -39,13 +39,13 @@ Per "condividere" il GIT con qualcun altro bisogna prendere il link del progetto
 Per creare un nuovo Branch:  
 `$ git branch <\nome Branch>`
 
-per scambiare da Branch a Branch:  
+Per scambiare da Branch a Branch:  
 `$ git checkout <\nome Branch>`
 
-per eliminare un Branch (safe mode):  
+Per eliminare un Branch (safe mode):  
 `$ git branch -d <\nome Branch>`
 
-per eliminare un Branch (force mode):  
+Per eliminare un Branch (force mode):  
 `$ git branch -D <\nome Branch>`
 
 #### Comandi avanzati Branch
@@ -54,7 +54,7 @@ per eliminare un Branch (force mode):
 
 1. Andare nel Branch in qui si vuole unire il resto.  
 2. Eseguire il comando: `$ git merge <\nome del Branch che vuoi unire>`
-3. (facoltativo) Eliminare la cartella che hai appena unito.
+3. (Facoltativo) Eliminare la cartella che hai appena unito.
 
 
 # My first steps in GIT (english edition)
@@ -63,7 +63,7 @@ per eliminare un Branch (force mode):
 
 ## Base Configuration
 
-insert your first name and last name inside the following command:  
+Insert your first name and last name inside the following command:  
 `$ git config --global user.name "First name and last name"`
 
 Insert your E-mail adress inside the following command:  
@@ -86,8 +86,11 @@ instead of <\file> insertuno of the following commands:
 To commit digit:  
 `$ git commit -m <reason of the commit>`
 
-To link you Git to Github use:  
-`$ git remote add origin <\link of Github>
+To link your Repository to Github use:  
+`$ git remote add origin <\link of Github>`
+
+To clone a online Repository use:  
+`$ git clone https://github.com/Ek6pr0/Hello_world.git`
 
 ### Branch
 
