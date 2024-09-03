@@ -47,7 +47,8 @@ per eliminare un Branch (force mode):
 
 #### Comandi avanzati Branch
 
-Per unire i due Branch creati usare il comando:
-`$ git merge`
+##### Unire i Branch
 
-procapdsca
+1. Andare nel Branch in qui si vuole unire il resto.  
+2. Eseguire il comando: `$ git merge <\nome del Branch che vuoi unire>`
+3. (facoltativo) Eliminare la cartella che hai appena unito.
