@@ -1,5 +1,7 @@
 # I miei primi passi in Git
 
+**Informazione: i segni <> non devono essere messi, servono solo per informazione.**
+
 ## Configurazione di base
 
 inserire il tuo nome e cognome all'interno del comando seguente  
@@ -25,4 +27,17 @@ Al posto di "<\file>" inserire uno dei seguenti comandi:
 
 
 Per committare digitare:  `$ git commit -m '<Motivo del commit>`
+
+### Branch
+
+#### Comandi base Branch
+
+Per creare un nuovo Branch:  
+`$ git branch <\nome Branch>`
+
+per scambiare da Branch a Branch:  
+`$ git checkout <\nome Branch>`
+
+per eliminare un Branch:  
+`$ git branch -d <\nome Branch>`
 
