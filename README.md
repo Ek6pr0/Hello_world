@@ -1,6 +1,6 @@
 # I miei primi passi in Git
 
-**Informazione: i segni <> non devono essere messi, servono solo per informazione.**
+**Informazione: i segni <\> non devono essere messi, servono solo per informazione.**
 
 ## Configurazione di base
 
