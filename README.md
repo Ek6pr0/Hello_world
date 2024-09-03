@@ -24,3 +24,4 @@ Al posto di "<\file>" inserire uno dei seguenti comandi:
 
 
 Per committare digitare:  `$ git commit -m '<Motivo del commit>`
+
