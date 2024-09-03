@@ -9,6 +9,8 @@ inserire il tuo nome e cognome all'interno del comando seguente
 inserire il tuo indirizzo email all'interno del comando seguente  
 `% git config --global user.email "indirizzo.email@gmail.com"`
 
+## Comandi di base
+
 Per inizializzare la Ripository usare il comando:  
 `% git init`
  
@@ -17,7 +19,6 @@ Per controllare lo stato dei commits usare il comando:
 
 Per fare lo "stage changes" usare il comando:  `% git add <\file>`  
 Al posto di "<\file>" inserire uno dei seguenti comandi:  
-
 - "." che aggiunge tutti i file
 - "Nome del file" che aggiunge il file con il nome inserito
 
