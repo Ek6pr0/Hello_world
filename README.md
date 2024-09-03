@@ -56,10 +56,68 @@ per eliminare un Branch (force mode):
 2. Eseguire il comando: `$ git merge <\nome del Branch che vuoi unire>`
 3. (facoltativo) Eliminare la cartella che hai appena unito.
 
-## Altro
 
-Crediti: Erik Carina (RSI)
+# My first steps in GIT (enlgish edition)
+
+**Information: The signs <> and \ do not have to be insert too,they are only for information.**
+
+## Base Configuration
+
+insert your first name and last name inside the following command:  
+`$ git config --global user.name "First name and last name"`
+
+Insert your E-mail adress inside the following command:  
+`$ git config --global user.email "E-mail.adress@gmail.com"`
+
+## Base commands
+
+To inizialize a new Repository use the following command:  
+`$ git init`
+
+To check the commits status use the command:  
+`$ git status`
+
+To stage the files use the command:  
+`$ git add <\file>`  
+instead of <\file> insertuno of the following commands:  
+- "." that add all the files
+- "File name" that add the file with that name
+
+To commit digit:  
+`$ git commit -m <reason of the commit>`
+
+To link you Git to Github use:  
+`$ git remote add origin <\link of Github>
+
+### Branch
+
+#### Base commands for Branch
+
+To create a new Branch:  
+`$ git branch <\Branch name>`
+
+To switch from Branch to Branch:  
+`$ git checkout <\Branch name>`
+
+To delete one Branch (safe mode):  
+`$ git branch -d <\branch name>`
+
+To delete one Branch (Force mode):  
+`$ git branch -D <\branch name>`
+
+#### Advanced commands for Branch
+
+##### Merge the Branches
+
+1. Go inside the Branch you want to merge the others into.
+2. Execute the command: `$ git merge<\Branch name that will merge>`
+3. (Optional) Delete the Branch you just merged.
+
+
+## Altro / Other
+
+Credits: Erik Carina (RSI)
 
 [Book git](https://git-scm.com/book/en/v2) (english)  
-[RSI](https://www.rsi.ch/)  
+[RSI site](https://www.rsi.ch/)  
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
