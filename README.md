@@ -1,4 +1,4 @@
-# I miei primi passi in Git
+# I miei primi passi in Git (italiano)
 
 **Informazione: i segni <> e \ non devono essere messi, servono solo per informazione.**
 
