@@ -23,5 +23,6 @@ Al posto di "<\file>" inserire uno dei seguenti comandi:
 - "Nome del file" che aggiunge il file con il nome inserito
 
 
+
 Per committare digitare:  `$ git commit -m '<Motivo del commit>`
 
