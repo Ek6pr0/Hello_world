@@ -57,7 +57,7 @@ per eliminare un Branch (force mode):
 3. (facoltativo) Eliminare la cartella che hai appena unito.
 
 
-# My first steps in GIT (enlgish edition)
+# My first steps in GIT (english edition)
 
 **Information: The signs <> and \ do not have to be insert too,they are only for information.**
 
