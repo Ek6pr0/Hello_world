@@ -29,6 +29,9 @@ Per committare digitare:  `$ git commit -m '<Motivo del commit>`
 Per collegare il tuo Git a Github usare:  
 `$ git remote add origin <\link del Github>`
 
+Per "spingere" o "aggiornare" usare il comando:  
+`$ git push origin main`
+
 Per clonare la repository online usare: 
 `$ git clone https://github.com/Ek6pr0/Hello_world.git` 
 
@@ -41,6 +44,9 @@ Per creare un nuovo Branch:
 
 Per scambiare da Branch a Branch:  
 `$ git checkout <\nome Branch>`
+
+Per rinominare un Branch:  
+`$ git branch -m <\Nome attuale> <\nuovo nome>`
 
 Per eliminare un Branch (safe mode):  
 `$ git branch -d <\nome Branch>`
