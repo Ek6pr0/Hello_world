@@ -1,8 +1,8 @@
-# I miei primi passi in Git (italiano)
+# **I miei primi passi in Git (italiano)**
 
 **Informazione: i segni <> e \ non devono essere messi, servono solo per informazione.**
 
-## Configurazione di base
+## **Configurazione di base**
 
 Inserire il tuo nome e cognome all'interno del comando seguente  
 `$ git config --global user.name "nome cognome"`
@@ -11,7 +11,7 @@ Inserire il tuo nome e cognome all'interno del comando seguente
 Inserire il tuo indirizzo email all'interno del comando seguente  
 `$ git config --global user.email "indirizzo.email@gmail.com"`
 
-## Comandi di base
+## **Comandi di base**
 
 Per inizializzare la Ripository usare il comando:  
 `% git init`
@@ -35,9 +35,9 @@ Per "spingere" o "sincronizzare" usare il comando:
 Per clonare la repository online usare: 
 `$ git clone https://github.com/Ek6pr0/Hello_world.git` 
 
-### Branch
+### **Branch**
 
-#### Comandi base Branch
+#### **Comandi base Branch**
 
 Per creare un nuovo Branch:  
 `$ git branch <\nome Branch>`
@@ -54,20 +54,20 @@ Per eliminare un Branch (safe mode):
 Per eliminare un Branch (force mode):  
 `$ git branch -D <\nome Branch>`
 
-#### Comandi avanzati Branch
+#### **Comandi avanzati Branch**
 
-##### Unire i Branch
+##### **Unire i Branch**
 
 1. Andare nel Branch in qui si vuole unire il resto.  
 2. Eseguire il comando: `$ git merge <\nome del Branch che vuoi unire>`
 3. (Facoltativo) Eliminare la cartella che hai appena unito.
 
 
-# My first steps in GIT (english edition)
+# __My first steps in GIT (english edition)__
 
-**Information: The signs <> and \ do not have to be insert too,they are only for information.**
+***Information: The signs <> and \ do not have to be insert too,they are only for information.***
 
-## Base Configuration
+## **Base Configuration**
 
 Insert your first name and last name inside the following command:  
 `$ git config --global user.name "First name and last name"`
@@ -75,7 +75,7 @@ Insert your first name and last name inside the following command:
 Insert your E-mail adress inside the following command:  
 `$ git config --global user.email "E-mail.adress@gmail.com"`
 
-## Base commands
+## **Base commands**
 
 To inizialize a new Repository use the following command:  
 `$ git init`
@@ -101,9 +101,9 @@ To "push"or "sync" use the command:
 To clone a online Repository use:  
 `$ git clone https://github.com/Ek6pr0/Hello_world.git`
 
-### Branch
+### **Branch**
 
-#### Base commands for Branch
+#### **Base commands for Branch**
 
 To create a new Branch:  
 `$ git branch <\Branch name>`
@@ -120,18 +120,18 @@ To delete one Branch (safe mode):
 To delete one Branch (Force mode):  
 `$ git branch -D <\branch name>`
 
-#### Advanced commands for Branch
+#### **Advanced commands for Branch**
 
-##### Merge the Branches
+##### **Merge the Branches**
 
 1. Go inside the Branch you want to merge the others into.
 2. Execute the command: `$ git merge<\Branch name that will merge>`
 3. (Optional) Delete the Branch you just merged.
 
 
-## Altro / Other
+## *Altro / Other*
 
-Credits: Erik Carina (RSI)
+Credits: *Erik Carina* (RSI)
 
 [Book git](https://git-scm.com/book/en/v2) (english)  
 [RSI site](https://www.rsi.ch/)  
