@@ -24,7 +24,7 @@ Al posto di "<\file>" inserire uno dei seguenti comandi:
 - "." che aggiunge tutti i file
 - "Nome del file" che aggiunge il file con il nome inserito
 
-Per committare digitare:  `$ git commit -m '<Motivo del commit>`
+Per committare digitare:  `$ git commit -m '"<Motivo del commit>"`(tenere i "")
 
 Per collegare il tuo Git a Github usare:  
 `$ git remote add origin <\link del Github>`
@@ -95,6 +95,9 @@ To commit digit:
 To link your Repository to Github use:  
 `$ git remote add origin <\link of Github>`
 
+To "push"or "update" use the command:  
+`$ git push origin main`
+
 To clone a online Repository use:  
 `$ git clone https://github.com/Ek6pr0/Hello_world.git`
 
@@ -107,6 +110,9 @@ To create a new Branch:
 
 To switch from Branch to Branch:  
 `$ git checkout <\Branch name>`
+
+To rename a Branch:  
+`$ git push -m <\current name> <\new name>`
 
 To delete one Branch (safe mode):  
 `$ git branch -d <\branch name>`
