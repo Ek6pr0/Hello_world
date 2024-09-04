@@ -29,11 +29,14 @@ Per committare digitare:  `$ git commit -m '"<Motivo del commit>"`(tenere i "")
 Per collegare il tuo Git a Github usare:  
 `$ git remote add origin <\link del Github>`
 
-Per "spingere" o "sincronizzare" usare il comando:  
+Per "spingere" usare il comando:  
 `$ git push origin main`
 
 Per clonare la repository online usare: 
 `$ git clone https://github.com/Ek6pr0/Hello_world.git` 
+
+Per "tirare" o "sincronizzare" una repository clonata usare:  
+`$ git pull`
 
 ### Branch
 
