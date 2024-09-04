@@ -107,6 +107,9 @@ To "push"or "sync" use the command:
 To clone a online Repository use:  
 `$ git clone https://github.com/Ek6pr0/Hello_world.git`
 
+To "pull" or "syncronize" a cloned Repository use:  
+`$ git pull` 
+
 ### Branch
 
 #### Base commands for Branch
