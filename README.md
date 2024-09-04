@@ -48,6 +48,9 @@ Per scambiare da Branch a Branch:
 Per rinominare un Branch:  
 `$ git branch -m <\Nome attuale> <\nuovo nome>`
 
+Per vedere la lista dei Branch:  
+`$ git branch`
+
 Per eliminare un Branch (safe mode):  
 `$ git branch -d <\nome Branch>`
 
@@ -114,6 +117,9 @@ To switch from Branch to Branch:
 To rename a Branch:  
 `$ git push -m <\current name> <\new name>`
 
+To see the Branches list:  
+`$ git branch`
+
 To delete one Branch (safe mode):  
 `$ git branch -d <\branch name>`
 
@@ -125,14 +131,15 @@ To delete one Branch (Force mode):
 ##### Merge the Branches
 
 1. Go inside the Branch you want to merge the others into.
-2. Execute the command: `$ git merge<\Branch name that will merge>`
+2. Execute the command: `$ git merge  <\Branch name that will merge>`
 3. (Optional) Delete the Branch you just merged.
 
 
 ## Altro / Other
 
-Credits: Erik Carina (RSI)
+Credits: *Erik Carina* (RSI)
 
 [Book git](https://git-scm.com/book/en/v2) (english)  
 [RSI site](https://www.rsi.ch/)  
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+[Stackoverflow](https://stackoverflow.com/)
